@@ -46,5 +46,7 @@ Incorrect form of function
 ```
 
 ## Run
-``` go run main.go
+
+```
+go run main.go
 ```
