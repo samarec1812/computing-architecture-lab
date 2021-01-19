@@ -15,6 +15,23 @@ Let such a logical expression be given
 ```
 Then the truth table will be like this:
 ```
-dbni
+F = (xVyVz)-w
+x y z w  F
+0 0 0 0  1
+0 0 0 1  1
+0 0 1 0  0
+0 0 1 1  1
+0 1 0 0  0
+0 1 0 1  1
+0 1 1 0  0
+0 1 1 1  1
+1 0 0 0  0
+1 0 0 1  1
+1 0 1 0  0
+1 0 1 1  1
+1 1 0 0  0
+1 1 0 1  1
+1 1 1 0  0
+1 1 1 1  1
 ```
 
