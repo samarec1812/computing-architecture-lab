@@ -11,5 +11,10 @@ The truth table is output to a text file(.txt)
 ## Example 
 Let such a logical expression be given
 ```
-func main(){}
+(xVyVz)-w
 ```
+Then the truth table will be like this:
+```
+dbni
+```
+
