@@ -2,5 +2,8 @@
 
 A calculator that builds a truth table for a given expression.
 
-#### Input
+### Input
 The expression is read from a text file (.txt)
+
+### Output
+The truth table is output to a text file(.txt)
