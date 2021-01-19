@@ -2,10 +2,10 @@
 
 A calculator that builds a truth table for a given expression(to 4 arguments).
 
-### Input
+## Input
 The expression is read from a text file (.txt)
 
-### Output
+## Output
 The truth table is output to a text file(.txt)
 
 ## Example 
@@ -45,3 +45,6 @@ x y z w  F
 Incorrect form of function
 ```
 
+## Run
+``` go run main.go
+```
