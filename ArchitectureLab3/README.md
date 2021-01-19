@@ -38,5 +38,10 @@ Also, if an incorrect character is present in the string, an error is processed 
 ```
 xVz)w&y
 ```
-
+Then the output will take the form:
+```
+F = xVz)w&y
+x y z w  F
+Incorrect form of function
+```
 
