@@ -13,7 +13,7 @@ Let such a logical expression be given
 ```
 (xVyVz)-w
 ```
-Then the truth table will be like this:
+Then the result of the program will be like this:
 ```
 F = (xVyVz)-w
 x y z w  F
@@ -34,4 +34,9 @@ x y z w  F
 1 1 1 0  0
 1 1 1 1  1
 ```
+Also, if an incorrect character is present in the string, an error is processed and output to a text file
+```
+snvjsbn
+```
+
 
