@@ -36,7 +36,7 @@ x y z w  F
 ```
 Also, if an incorrect character is present in the string, an error is processed and output to a text file
 ```
-snvjsbn
+xVz)w&y
 ```
 
 
