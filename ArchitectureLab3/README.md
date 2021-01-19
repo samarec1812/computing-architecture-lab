@@ -9,6 +9,7 @@ The expression is read from a text file (.txt)
 The truth table is output to a text file(.txt)
 
 ## Example 
+Let such a logical expression be given
 ```
 func main(){}
 ```
